@@ -1,6 +1,6 @@
 # MCP News Search
 
-A powerful news search and analysis tool built with MCP (Machine Conversation Protocol) that combines Google News API and Google's Gemini AI to provide intelligent news insights.
+A powerful news search and analysis tool built with MCP (Model Context Protocol) that combines Google News API and Google's Gemini AI to provide intelligent news insights.
 
 ## Features
 
